@@ -1,1 +1,0 @@
-t_delete1.start()
